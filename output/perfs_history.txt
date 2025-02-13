@@ -1,0 +1,4 @@
+Iterations	Blocks		Context		Batches		d_model		att_head		Dropout		Scores(%)
+101		 1		 8		32		128		 4			0.2		90.50
+101		 1		 8		128		128		 4			0.2		92.50
+101		 2		 8		32		128		 4			0.2		91.00
